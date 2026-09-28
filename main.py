@@ -20,7 +20,7 @@ import openpyxl
 logging.basicConfig(level=logging.INFO)
 
 # Configuration
-BOT_TOKEN = "8910678581:AAFCgInJ04YEBc4lPBuNA8eJRIkK2dbzCDw"  # Bot tokeningizni kiriting
+BOT_TOKEN = "8910678581:AAElbrrD4yd3ROdPFIVNwVSK5pSiYcnr-Ug"  # Bot tokeningizni kiriting
 ADMIN_CODE = "dev1422"
 CHANNEL_ID = "@registan_dangara"  # Kanal username yoki ID
 CHANNEL_LINK = "https://t.me/registan_dangara"
